@@ -96,7 +96,7 @@ menu-item {
     font-size: 30px;
     padding: 22px;
 }
-.box1 {
+.box4 {
     display: inline-block;
     top: 22px;
     left: 22px;
@@ -108,7 +108,7 @@ menu-item {
     line-height: 115px;
     white-space: nowrap;
 }
-.box2 {
+.box6 {
     display: inline-block;
     top: 22px;
     right: 22px;
@@ -122,7 +122,7 @@ menu-item {
     position: absolute;
 
 }
-.box3 {
+.box7 {
     display: inline-block;
     position: absolute;
     bottom: 22px;
@@ -135,7 +135,7 @@ menu-item {
     line-height: 115px;
     white-space: nowrap;
 }
-.box4 {
+.box8 {
     display: inline-block;
     position: absolute;
     bottom: 22px;
